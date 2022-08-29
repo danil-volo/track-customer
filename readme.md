@@ -30,6 +30,8 @@ Submit the deliverables in the following format
 2. Deliverable submitted in the form of a link to a repository that satisfies the requirements for each question
 
 # How To Run
+Navigate to /admin to find current customers.
+
 ```
 npm run start
 ```
